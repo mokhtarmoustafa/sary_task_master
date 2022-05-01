@@ -1,10 +1,14 @@
 # Sary App
 Sary task for simulate the original "SARY" app.
 
-![home](https://user-images.githubusercontent.com/22590747/166147674-3d72cab0-2d50-4867-885e-dac8a9b8c34d.jpg)
-![orders](https://user-images.githubusercontent.com/22590747/166147677-980c74a5-7f61-4aba-997c-ddf348709a03.jpg)
-![profile](https://user-images.githubusercontent.com/22590747/166147681-e97d48a3-f0b6-4fb1-89dd-43e19b8debd7.jpg)
-![splash](https://user-images.githubusercontent.com/22590747/166147685-20f0e496-110d-4534-aaad-a7a73f87b1c4.jpg)
+# ScreenShots
+
+|  |  |  |
+|:-:|:-:|:-:|
+| ![Fist](https://user-images.githubusercontent.com/22590747/166147685-20f0e496-110d-4534-aaad-a7a73f87b1c4.jpg?raw=true) | ![3]
+(https://user-images.githubusercontent.com/22590747/166147674-3d72cab0-2d50-4867-885e-dac8a9b8c34d.jpg?raw=true) | ![3]
+(https://user-images.githubusercontent.com/22590747/166147677-980c74a5-7f61-4aba-997c-ddf348709a03.jpg?raw=true) | ![3]
+(https://user-images.githubusercontent.com/22590747/166147681-e97d48a3-f0b6-4fb1-89dd-43e19b8debd7.j[g?raw=true) | 
 
 
 
