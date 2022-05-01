@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+<variable
+    name="catalog"
+    type="com.mokhtar.sarytask.data.model.catalog.CatalogData" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp">
+
+        <ImageView
+            android:id="@+id/itemPhoto"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            loadImageUrl="@{catalog.image}"
+            android:duplicateParentState="true"
+            />
+
+        <TextView
+            android:id="@+id/itemName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:text="@{catalog.name}"
+            android:duplicateParentState="true"
+            app:layout_constraintStart_toStartOf="@+id/itemPhoto"
+            app:layout_constraintEnd_toEndOf="@+id/itemPhoto"
+            app:layout_constraintTop_toBottomOf="@+id/itemPhoto" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
