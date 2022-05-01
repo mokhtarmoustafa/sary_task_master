@@ -1,7 +1,7 @@
 # Sary App
 Sary task for simulate the original "SARY" app.
 
-App demonstrating Clean Architecture using Coroutines and Android Jetpack Components (Room, MVVM Paging, Navigation Components and Live Data)
+App demonstrating Clean Architecture using Coroutines and Android Jetpack Components (Room, MVVM ,Kotlin Flow, Navigation Components and Live Data)
 
 # ScreenShots
 
