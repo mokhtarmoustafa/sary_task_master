@@ -12,7 +12,7 @@ App demonstrating Clean Architecture using Coroutines and Android Jetpack Compon
 
 # Tech-Stack
 
-* __S.O.L.I.Dt__  priciple followed for more understandable, flexible and maintainable.
+* __S.O.L.I.D__  priciple followed for more understandable, flexible and maintainable.
 
 * __Retrofit__ : For Network calls
 * __Architecture__ : MVVM
@@ -21,7 +21,7 @@ App demonstrating Clean Architecture using Coroutines and Android Jetpack Compon
 * __Live Data__ : To notify view for change
 * __HIlt__ : For dependency injection
 * __Navigation__ : - helps you implement navigation, from simple button clicks to more complex patterns, such as app bars and the navigation drawer.
-* __Kotlin flows __ : - helps stream of data that can be computed asynchronously. 
+* Kotlin Flow :: - helps stream of data that can be computed asynchronously. 
 * __Language__ : Kotlin
 
 
